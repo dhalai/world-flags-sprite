@@ -1,0 +1,16 @@
+{
+  "name": "world-flags-sprite",
+  "version": "1.0.0",
+  "homepage": "https://github.com/lafeber/world-flags-sprite",
+  "authors": [
+    "Martijn Lafeber <lafeber@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
