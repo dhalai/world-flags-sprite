@@ -5,6 +5,10 @@
   "authors": [
     "Martijn Lafeber <lafeber@gmail.com>"
   ],
+  "main": [
+    "stylesheets/flags16.scss",
+    "stylesheets/flags32.scss"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
