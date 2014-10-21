@@ -6,8 +6,8 @@
     "Martijn Lafeber <lafeber@gmail.com>"
   ],
   "main": [
-    "stylesheets/flags16.scss",
-    "stylesheets/flags32.scss"
+    "stylesheets/flags16.css",
+    "stylesheets/flags32.css"
   ],
   "license": "MIT",
   "ignore": [
